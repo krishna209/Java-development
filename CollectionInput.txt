@@ -1,0 +1,11 @@
+krishna,kadigari,24,CA
+prithvi,dammalapati,24,NC
+balu,kasa,26,MD
+raju,vemula,26,NJ
+raj,singh,19,MD
+sandeep,saripalli,28,MD
+bruce,wayne,26,CA
+dwyane,jhonson,29,NC
+mickey,mouse,14,NJ
+narendra,modi,65,IN
+rock,star,43,CA

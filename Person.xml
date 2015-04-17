@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<user userID="123">
+		<username>krishna</username>
+		<password>rambo</password>
+		<validity>30</validity>>		
+	</user>
+	<user userID="456">
+		<username>chaitanya</username>
+		<password>rockstar</password>
+		<validity>20</validity>>		
+	</user>
+	<user userID="789">
+		<username>kai</username>
+		<password>dranzer</password>
+		<validity>23</validity>>		
+	</user>
+</person>
+

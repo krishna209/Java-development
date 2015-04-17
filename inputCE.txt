@@ -1,0 +1,1 @@
+this is compression example input file
